@@ -1,0 +1,11 @@
+D:\IT\IT4\Task_3 Core\bin\Debug\netcoreapp2.1\Task_3_EF_Core_from_Database.deps.json
+D:\IT\IT4\Task_3 Core\bin\Debug\netcoreapp2.1\Task_3_EF_Core_from_Database.runtimeconfig.json
+D:\IT\IT4\Task_3 Core\bin\Debug\netcoreapp2.1\Task_3_EF_Core_from_Database.runtimeconfig.dev.json
+D:\IT\IT4\Task_3 Core\bin\Debug\netcoreapp2.1\Task_3_EF_Core_from_Database.dll
+D:\IT\IT4\Task_3 Core\bin\Debug\netcoreapp2.1\Task_3_EF_Core_from_Database.pdb
+D:\IT\IT4\Task_3 Core\obj\Debug\netcoreapp2.1\Task_3_EF_Core_from_Database.csprojAssemblyReference.cache
+D:\IT\IT4\Task_3 Core\obj\Debug\netcoreapp2.1\Task_3_EF_Core_from_Database.csproj.CoreCompileInputs.cache
+D:\IT\IT4\Task_3 Core\obj\Debug\netcoreapp2.1\Task_3_EF_Core_from_Database.AssemblyInfoInputs.cache
+D:\IT\IT4\Task_3 Core\obj\Debug\netcoreapp2.1\Task_3_EF_Core_from_Database.AssemblyInfo.cs
+D:\IT\IT4\Task_3 Core\obj\Debug\netcoreapp2.1\Task_3_EF_Core_from_Database.dll
+D:\IT\IT4\Task_3 Core\obj\Debug\netcoreapp2.1\Task_3_EF_Core_from_Database.pdb
