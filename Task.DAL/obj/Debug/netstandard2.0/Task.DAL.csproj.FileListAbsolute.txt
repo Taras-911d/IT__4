@@ -1,9 +1,0 @@
-D:\IT\IT4\Task.DAL\obj\Debug\netstandard2.0\Task.DAL.csproj.CoreCompileInputs.cache
-D:\IT\IT4\Task.DAL\obj\Debug\netstandard2.0\Task.DAL.AssemblyInfoInputs.cache
-D:\IT\IT4\Task.DAL\obj\Debug\netstandard2.0\Task.DAL.AssemblyInfo.cs
-D:\IT\IT4\Task.DAL\bin\Debug\netstandard2.0\Task.DAL.deps.json
-D:\IT\IT4\Task.DAL\bin\Debug\netstandard2.0\Task.DAL.dll
-D:\IT\IT4\Task.DAL\bin\Debug\netstandard2.0\Task.DAL.pdb
-D:\IT\IT4\Task.DAL\obj\Debug\netstandard2.0\Task.DAL.dll
-D:\IT\IT4\Task.DAL\obj\Debug\netstandard2.0\Task.DAL.pdb
-D:\IT\IT4\Task.DAL\obj\Debug\netstandard2.0\Task.DAL.csprojAssemblyReference.cache
