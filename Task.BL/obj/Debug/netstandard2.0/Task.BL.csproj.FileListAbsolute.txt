@@ -1,9 +1,0 @@
-D:\IT\IT4\Task.BL\bin\Debug\netstandard2.0\Task.BL.deps.json
-D:\IT\IT4\Task.BL\bin\Debug\netstandard2.0\Task.BL.dll
-D:\IT\IT4\Task.BL\bin\Debug\netstandard2.0\Task.BL.pdb
-D:\IT\IT4\Task.BL\obj\Debug\netstandard2.0\Task.BL.csproj.CoreCompileInputs.cache
-D:\IT\IT4\Task.BL\obj\Debug\netstandard2.0\Task.BL.AssemblyInfoInputs.cache
-D:\IT\IT4\Task.BL\obj\Debug\netstandard2.0\Task.BL.AssemblyInfo.cs
-D:\IT\IT4\Task.BL\obj\Debug\netstandard2.0\Task.BL.dll
-D:\IT\IT4\Task.BL\obj\Debug\netstandard2.0\Task.BL.pdb
-D:\IT\IT4\Task.BL\obj\Debug\netstandard2.0\Task.BL.csprojAssemblyReference.cache
