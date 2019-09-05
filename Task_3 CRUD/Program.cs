@@ -56,30 +56,30 @@ namespace Task_3_Core
                     Console.WriteLine($"{u.OrderId}.{u.MedicamentId} - {u.Price}");
                 }
             }
-
+            
             // Delete
             using (DzhusInternetShopDBContext db = new DzhusInternetShopDBContext())
-            {
+             {
                 // get the first object
                 Employees employees = db.Employees.FirstOrDefault();
                 if (employees != null)
                 {
-                    //delete the object
-                    db.Employees.Remove(employees);
-                    db.SaveChanges();
-                }
+               // delete the object
+                db.Employees.Remove(employees);
+                db.SaveChanges();
+             }
 
-                // data after remove
-                Console.WriteLine("\nData after remove");
-                var Employees1 = db.Employees.ToList();
-                foreach (Employees u in Employees1)
-                {
-                    Console.WriteLine($"{u.Id}.{u.Fname} - {u.Post}");
-                }
-                
-                Console.ReadKey();
-            }
+        // data after remove
+         Console.WriteLine("\nData after remove");
+                 var Employees1 = db.Employees.ToList();
+                 foreach (Employees u in Employees1)
+                 {
+                 Console.WriteLine($"{u.Id}.{u.Fname} - {u.Post}");
+                 }
+
+         Console.ReadKey(); 
         }
+    }
 
 
     }

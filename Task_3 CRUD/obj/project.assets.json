@@ -3679,9 +3679,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\IT\\IT4\\Task_3 CRUD\\Task_3_EF_Core_from_Database.csproj",
-      "projectName": "Task_3_EF_Core_from_Database",
-      "projectPath": "D:\\IT\\IT4\\Task_3 CRUD\\Task_3_EF_Core_from_Database.csproj",
+      "projectUniqueName": "D:\\IT\\IT4\\Task_3 CRUD\\Task.Model.csproj",
+      "projectName": "Task.Model",
+      "projectPath": "D:\\IT\\IT4\\Task_3 CRUD\\Task.Model.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
       "outputPath": "D:\\IT\\IT4\\Task_3 CRUD\\obj\\",
       "projectStyle": "PackageReference",
@@ -3728,6 +3728,7 @@
             "version": "[2.2.6, )"
           },
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
